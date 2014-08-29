@@ -7,7 +7,11 @@ get_header(); ?>
 
 <div id="primary" class="content-area col-md-12 homepage reset-size">
 	<main id="main" class="site-main" role="main">
-		<div class="video-first reset-size"></div>
+		<div class="video-first reset-size">
+			<div class="splash-text">
+				<h2> Welcome to House of Perempuan. A site dedicated to exploring the inspirational of women</h2>
+			</div>
+		</div>
 		<div class="row top-grid">
 			<h2>People Inspired by Us</h2>
 			<div class="col-md-3 grid"><img  align="middle" class="img-responsive" src="<?php bloginfo('stylesheet_directory'); ?>/images/spot1.png" alt="Detik Hot">
@@ -25,12 +29,12 @@ get_header(); ?>
 				<h2 class="centering">Help us to get more girls</h2>
 			</div>
 		</div>
-		<div class="row top-grid">
+<!-- 		<div class="row top-grid">
 			<h2>People wanted to know...</h2>
 			<div class="col-md-4 grid-big">a</div>
 			<div class="col-md-4 grid-big">a</div>
 			<div class="col-md-4 grid-big">a</div>
-		</div>
+		</div> -->
 		<div class="row top-grid homepage-baseline">
 			<div class="col-md-1"><span>As Seen on</span></div>
 			<div class="col-md-2 grid-bottom"><a href="hot.detik.com/read/2013/08/25/103946/2339723/230/krisdayanti-dukung-house-of-perempuan--hope-"><img  align="middle" class="img-responsive" src="<?php bloginfo('stylesheet_directory'); ?>/images/media/logo_hot.png" alt="Detik Hot"></a></div>

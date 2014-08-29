@@ -14,7 +14,7 @@
 	<?php if ( of_get_option('credit1', true) == 0 ) { ?>
 		<div class="site-info col-md-5">
 			<?php do_action( 'blain_credits' ); ?>
-			<?php printf( __( 'Blain Theme by %1$s.', 'blain' ), '<a href="http://inkhive.com/" rel="designer">InkHive</a>' ); ?>
+			<?php printf( __( 'Copyright 2014 %1$s.', 'blain' ), '<a href="http://houseofperempuan.org/" rel="designer">HOPE</a>' ); ?>
 		</div><!-- .site-info -->
 	<?php } ?>	
 		<div id="footertext" class="col-md-7">
