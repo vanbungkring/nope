@@ -35,7 +35,7 @@ get_header(); ?>
 			<div class="col-md-4 grid-big">a</div>
 			<div class="col-md-4 grid-big">a</div>
 		</div> -->
-		<div class="row top-grid homepage-baseline">
+<!-- 		<div class="row top-grid homepage-baseline">
 			<div class="col-md-1"><span>As Seen on</span></div>
 			<div class="col-md-2 grid-bottom"><a href="hot.detik.com/read/2013/08/25/103946/2339723/230/krisdayanti-dukung-house-of-perempuan--hope-"><img  align="middle" class="img-responsive" src="<?php bloginfo('stylesheet_directory'); ?>/images/media/logo_hot.png" alt="Detik Hot"></a></div>
 			<div class="col-md-2 grid-bottom"><a href="www.tempo.co/read/news/2013/08/25/219507218/Krisdayanti-Peduli-Nasib-Kaum-Hawa-Indonesia"><img  align="middle" class="img-responsive" src="<?php bloginfo('stylesheet_directory'); ?>/images/media/tempologokonten.png" alt="Tempo"></a></div>
@@ -44,7 +44,7 @@ get_header(); ?>
 			<div class="col-md-2 grid-bottom"><a href="http://www.vemale.com/hot-event/32519-harapan-baru-perempuan-dengan-hope-house-of-perempuan.html"><img  align="middle" class="img-responsive" src="<?php bloginfo('stylesheet_directory'); ?>/images/media/vemale.png" alt="Vemale"></a></div>
 			<div class="col-md-2 grid-bottom"><a href="http://m.koran-sindo.com/node/333951"><img  align="middle" class="img-responsive" src="<?php bloginfo('stylesheet_directory'); ?>/images/media/sindo.png" alt="Sindo"></a></div>
 
-		</div>
+		</div> -->
 		
 
 </main><!-- #main -->
