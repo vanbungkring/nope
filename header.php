@@ -35,7 +35,7 @@
 			}
 			?>
 		</div>
-		<div class="col-md-9 margin-left">
+		<div class="col-md-9 reject-right">
 			<div class="nav-wrapper container">
 				<nav id="site-navigation" class="navbar navbar-default main-navigation" role="navigation">
 					
