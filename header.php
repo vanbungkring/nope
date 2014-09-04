@@ -22,7 +22,7 @@
 	<div id="page" class="hfeed site">
 		<?php do_action( 'before' ); ?>
 		<header id="masthead" class="site-header row container reset-size" role="banner">
-			<div class="site-branding col-md-4">
+			<div class="site-branding col-md-3">
 				<?php if((of_get_option('logo', true) != "") && (of_get_option('logo', true) != 1) ) { ?>
 				<h1 class="site-title logo-container"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
 					<?php
@@ -35,7 +35,7 @@
 			}
 			?>
 		</div>
-		<div class="col-md-8">
+		<div class="col-md-9">
 			<div class="nav-wrapper container">
 				<nav id="site-navigation" class="navbar navbar-default main-navigation" role="navigation">
 					
