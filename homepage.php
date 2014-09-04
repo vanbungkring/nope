@@ -26,7 +26,7 @@ get_header(); ?>
 		</div>
 		<div class="row top-grid">
 			<div class="col-md-12 cta-girls">
-				<h2 class="centering">Help us to get more girls</h2>
+				<h2 class="centering">BE PART OF HOPE</h2>
 			</div>
 		</div>
 <!-- 		<div class="row top-grid">
