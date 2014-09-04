@@ -15,13 +15,13 @@ get_header(); ?>
 		<div class="row top-grid">
 			<h2>People Inspired by Us</h2>
 			<div class="col-md-3 grid"><img  align="middle" class="img-responsive" src="<?php bloginfo('stylesheet_directory'); ?>/images/spot1.png" alt="Detik Hot">
-				<span> Social Justice</span>
+				<span> Women's Right</span>
 			</div>
 			<div class="col-md-3 grid"><img  align="middle" class="img-responsive" src="<?php bloginfo('stylesheet_directory'); ?>/images/spot2.png" alt="Detik Hot">
-				<span> Social Justice</span>
+				<span> Women's Health</span>
 			</div>
 			<div class="col-md-3 grid"><img  align="middle" class="img-responsive" src="<?php bloginfo('stylesheet_directory'); ?>/images/spot3.png" alt="Detik Hot">
-				<span> Social Justice</span>
+				<span> Women's Education</span>
 			</div>
 		</div>
 		<div class="row top-grid">
